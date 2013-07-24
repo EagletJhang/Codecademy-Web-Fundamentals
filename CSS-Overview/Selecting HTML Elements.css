@@ -2,6 +2,8 @@ div{
     background-color:#cc0000;
     height:100px;
     width:100px;
+    border-radius:5px;
+    /*圓角*/
 }
 td{
     height:50px;
