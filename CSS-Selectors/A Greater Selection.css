@@ -1,0 +1,17 @@
+/*any HTML element can be a CSS selector*/
+body{
+    background-color:#C6E2FF;
+}
+/*grab <p>s that are inside two <div>s*/
+div div p {
+    /*CSS stuff!*/
+}
+/*universal selector*/
+*{
+    /*CSS stuff!*/
+}
+
+*{
+    border:2px dashed #3A5FCD;
+}
+/*solid: 实线; dotted: 点划线; dashed: 虚线*/
