@@ -4,6 +4,9 @@ div{
     width:100px;
     border-radius:5px;
     /*圓角*/
+    margin:auto;
+    /*邊距*/
+    text-align:center;
 }
 td{
     height:50px;
