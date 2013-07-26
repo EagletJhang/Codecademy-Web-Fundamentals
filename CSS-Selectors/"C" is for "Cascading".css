@@ -1,0 +1,9 @@
+div div p { 
+            /* Some CSS */
+            }
+div > p { 
+            /* Some CSS */ 
+            }
+/*an element that is directly nested inside another element*/
+
+/*apply the more specific styling*/
