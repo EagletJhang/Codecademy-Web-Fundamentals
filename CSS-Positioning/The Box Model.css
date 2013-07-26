@@ -1,0 +1,11 @@
+div{
+  display:block;
+  }
+/*display:
+block: a block box; takes up the full width.
+
+inline-block: a block box, but will allow other elements to sit next to it on the same line.
+
+inline: sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs (not the whole line).
+
+none: This makes the element and its content disappear from the page entirely!*/
