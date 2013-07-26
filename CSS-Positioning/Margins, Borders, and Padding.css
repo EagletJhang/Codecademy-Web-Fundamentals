@@ -1,4 +1,5 @@
 div{
+  /*margin: 外边距*/
   margin:auto;
   margin-top: /*some value*/
   margin-right: /*some value*/
@@ -8,7 +9,7 @@ div{
   /*反方向*/
   margin: 1px 2px 3px 4px;
   /*will set a top margin of 1 pixel, a right margin of 2, a bottom of 3, and a left of 4.*/
-  /* padding is the space between your border and your innermost layer*/
+  /* padding: 内边距*/
   padding-top: /*some value*/
   padding-right: /*some value*/
   padding-bottom: /*some value*/
