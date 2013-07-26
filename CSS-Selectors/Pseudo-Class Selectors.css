@@ -7,3 +7,10 @@ a:hover {
 /*a:link: An unvisited link.
 a:visited: A visited link.
 a:hover: A link you're hovering your mouse over.*/
+p:first-child {
+    color: red;
+}
+/*apply on the p; apply styling to only the elements that are the first children of their parents.*/
+p:nth-child(2) {
+    color: red;
+}
