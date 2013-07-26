@@ -1,0 +1,18 @@
+div{
+  margin:auto;
+  margin-top: /*some value*/
+  margin-right: /*some value*/
+  margin-bottom: /*some value*/
+  margin-left: /*some-value*/
+  margin-top: -20px;
+  /*反方向*/
+  margin: 1px 2px 3px 4px;
+  /*will set a top margin of 1 pixel, a right margin of 2, a bottom of 3, and a left of 4.*/
+  /* padding is the space between your border and your innermost layer*/
+  padding-top: /*some value*/
+  padding-right: /*some value*/
+  padding-bottom: /*some value*/
+  padding-left: /*some-value*/
+  padding: /*value value value value*/
+  }
+  
